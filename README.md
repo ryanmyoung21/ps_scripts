@@ -1,7 +1,7 @@
-Automated Enterprise Troubleshooting Tools
+Automated Enterprise Troubleshooting Tools:
 This repository contains a collection of PowerShell projects designed to automate various enterprise-level troubleshooting tasks.
 
-Projects
+Projects:
 1. Get_AD _Groups_By_User
 This script retrieves a list of Active Directory groups associated with a specified user.
 
@@ -46,10 +46,10 @@ Check Disk (chkdsk /r)
 15. Get_Computer_BIOS_Info: Retrieves information about the BIOS on a local or remote machine, including the BIOS version, manufacturer, and release date.
 
 
-Usage
-Each project is a standalone PowerShell script. To use, simply run the script in PowerShell and follow the prompts.
+Usage:
+Each project is a standalone PowerShell script. To use, simply edit the parameters in the file, run the script in PowerShell, and follow the prompts.
 
-Requirements
+Requirements:
 PowerShell 3.0 or later
 Active Directory module (for Get_AD_Groups_By_User and NTFS_Permissions_Audit)
 Exchange Online module (for Exchange_365_Distribution_Lists_And_Members)
